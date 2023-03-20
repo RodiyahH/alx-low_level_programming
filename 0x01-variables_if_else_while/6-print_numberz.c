@@ -11,8 +11,8 @@ int main(void)
 	(i = 0;
 	i < 10;
 	i++);
-		purchar((num % 10) + '0');
+		putchar((num % 10) + '0');
 
-	purchar('\n');
+	putchar('\n');
 return (0);
 }
