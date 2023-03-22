@@ -5,7 +5,7 @@
  */
 void print_alphabet_x10(void);
 {
-	int i, co;
+	int (i), co;
 
 	co = 0
 
